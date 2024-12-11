@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المختبر 9</string>
+    <string name="GetData">الحصول على البيانات</string>
+    <string name="dateAndTime">التاريخ والوقت</string>
+    <string name="SignalStrength">قوة الإشارة</string>
+    <string name="Battery">بطارية</string>
+    <string name="location">موقع</string>
+</resources>

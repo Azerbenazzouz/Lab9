@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 9</string>
+    <string name="GetData">Obtenir des données</string>
+    <string name="dateAndTime">date et heure</string>
+    <string name="SignalStrength">force du signal</string>
+    <string name="Battery">Batterie</string>
+    <string name="location">localisation</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 9</string>
+    <string name="GetData">Get Data</string>
+    <string name="dateAndTime">date and time</string>
+    <string name="SignalStrength">force du signal</string>
+    <string name="Battery">Battery</string>
+    <string name="location">location</string>
+</resources>
